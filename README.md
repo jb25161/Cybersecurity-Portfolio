@@ -3,7 +3,8 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 
-- [Active Directory Home Lab](https://github.com/jb25161/Cybersecurity-portfolioo)
+- [Active Directory Home Lab](https://github.com/jb25161/ActiveDirectoryLab/tree/main)
+- [Security Tool Project]
 - [Hello World! Project]
 
 <h2>📄 Certifications</h2>
