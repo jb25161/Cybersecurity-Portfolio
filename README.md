@@ -1,4 +1,10 @@
-<h1>Hi, I'm John! <br/><a href="(https://github.com/jb25161/Cybersecurity-portfolioo)">Programmer</a>, <a href="www.linkedin.com/in/john-michael-bercasio"
+<h1>Hi, I'm John!👋🏽 <br/><a href="(https://github.com/jb25161/Cybersecurity-portfolioo)" /a> 
+
+## About Me!
+I’m currently pursuing my **Bachelor’s degree in IT Management** at **California State University, East Bay**.  
+My academic focus combines **business strategy and information technology**, and I’m developing specialized skills in **cybersecurity, risk management, and data protection**.  
+
+I’m passionate about understanding how technology, security, and business intersect — and I’m building hands-on experience through labs, certifications, and real-world projects.  
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
@@ -15,16 +21,11 @@
 - [Tutorial Active Directory Home Lab]
 
   
-<h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https:///icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://www.linkedin.com/in/john-michael-bercasio/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://www.instagram.com/johnn.bercasio)/icons/instagram.svg" />][instagram]
-
-[twitter]: https://twitter.com/
-[youtube]: https://www.youtube.com/c/
-[instagram]: https://www.instagram.com/johnn.bercasio
-[linkedin]: www.linkedin.com/in/john-michael-bercasio
+## 🌐 Connect With Me
+- **LinkedIn:** [www.linkedin.com/in/john-michael-bercasio]
+- **GitHub:** [(https://github.com/jb25161)]
+- **Email:** jberccol@gmail.com
+---
 
 
