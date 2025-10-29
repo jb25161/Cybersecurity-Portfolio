@@ -1,0 +1,74 @@
+# Google Coursera Module 1: Foundations of Cybersecurity  
+**Date:** October 28, 2025  
+
+---
+
+## **Overview**
+Module 1, *Foundations of Cybersecurity*, introduces the different roles, core principles, and importance of cybersecurity.  
+It provides a foundation for understanding the individuals who work within the field, their responsibilities, and the overall importance of cybersecurity in today’s digital world.
+
+---
+
+## **Key Takeaways & Core Concepts**
+
+### **What is Cybersecurity**
+Cybersecurity is the practice of protecting **networks, systems, and data** from digital attacks or unauthorized access.  
+The main goal is to ensure the **CIA Triad** — **Confidentiality, Integrity, and Availability** of all information.
+
+---
+
+### **Importance of Cybersecurity**
+- Maintains **trust** in digital systems  
+- Defends against threats like **malware**, **ransomware**, and **phishing**  
+- Protects organizations and individuals from **data breaches**, **financial loss**, and **identity theft**
+
+---
+
+### **Key Roles in Cybersecurity**
+- **Penetration Tester:** Simulates attacks to identify weaknesses in systems  
+- **Security Analyst:** Monitors systems for threats and investigates incidents  
+- **Security Engineer:** Builds and maintains secure systems and networks  
+- **Incident Responder:** Handles real-world security breaches and containment  
+
+---
+
+### **Core Concepts**
+- **CIA Triad:**  
+  - *Confidentiality* – Keep data private  
+  - *Integrity* – Keep data accurate  
+  - *Availability* – Keep systems running  
+- **Defense in Depth:** Use multiple layers of security to protect assets  
+- **Risk Management:** Identify, analyze, and mitigate potential threats  
+- **Authentication & Authorization:** Verify identity and assign access appropriately  
+
+---
+
+### **Tools & Technologies Mentioned**
+- Firewalls  
+- Antivirus software  
+- IDS/IPS (Intrusion Detection/Prevention Systems)  
+- Encryption for data protection  
+- Access control systems and multi-factor authentication  
+
+---
+
+### **Mindset for Cybersecurity**
+Be **detail-oriented, proactive, and curious**.  
+Always assume potential vulnerabilities exist and continuously improve security measures.  
+Cybersecurity professionals must act with **confidentiality**, **integrity**, and **ethical responsibility**, respecting privacy and reporting vulnerabilities responsibly.
+
+---
+
+## **Personal Reflection**
+Module 1 taught me the foundation of the different factors that make up cybersecurity. Before starting, I thought cybersecurity was simply about defending against hackers — now I understand it’s about protecting data and ensuring technology can be used safely by everyone.  
+
+From the perspective of an **IT Management major**, this module showed me how cybersecurity connects to the world of business and technology. Learning about the **CIA Triad** and how it supports confidentiality, integrity, and availability helped me see how cybersecurity acts as a foundation of trust within businesses.  
+
+One major takeaway I had was understanding the many roles within cybersecurity and how they work together to protect information systems. These roles showed me how much **technical skill and strategic thinking** are required in the industry — qualities that align well with my business and IT background. I can envision myself contributing from a management perspective by leading security initiatives, coordinating response efforts, and ensuring alignment between organizational goals and technical teams.  
+
+Another key takeaway was the emphasis on **ethics and responsibility**. I appreciated the focus on maintaining integrity, doing what’s right, and continuing to adapt in a fast-changing industry. This reminded me that cybersecurity is more than defending systems — it’s about upholding ethical standards and accountability in every decision.  
+
+Overall, this first module showed me that cybersecurity is a field where my **business mindset and technical interests intersect**. It’s reassuring to know that the work done in this field directly contributes to creating a safer digital environment for everyone.  
+
+---
+
